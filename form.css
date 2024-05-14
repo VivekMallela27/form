@@ -1,0 +1,18 @@
+[type="text"]
+{
+    background-color: aquamarine ;
+    color: blue;
+}
+[type="password"]
+{
+    background-color: burlywood;
+    color: white;
+}
+ button[type="reset"]
+{
+    background-color: chartreuse;
+}
+input[type="reset"]
+{
+    background-color: chocolate;
+}
